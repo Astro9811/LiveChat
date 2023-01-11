@@ -1,0 +1,15 @@
+//This is what outputMessage in main.js essentially creates in the html to show a message sent in chat    
+
+	  <div class="chat-messages">
+					<div class="message">
+						<p class="meta">Jayson <span>9:12pm</span></p>
+						<p class="text">
+							Hi, I'd like help with Web Services
+						</p>
+					</div>
+					<div class="message">
+						<p class="meta">Victor <span>9:15pm</span></p>
+						<p class="text">
+							Please let me speak to a representative.
+						</p>
+					</div>
