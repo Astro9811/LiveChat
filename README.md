@@ -1,6 +1,6 @@
 # LiveChat
 
-CS50 Project of local live chat server built with Node, Express, Socket, and Moment
+CS50 Project of realtime local live chat server built with Node, Express, Socket, and Moment
 
 <img src="screenshot1.png" width = '600'> 
 
